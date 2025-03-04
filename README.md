@@ -76,4 +76,4 @@ This project follows a **feature-based architecture** with **Clean Architecture*
 ✔ **Testability** – Clear distinctions between components improve test coverage.  
 
 # Project Demo Video  
-[🎥 Watch Demo](https://github.com/DanielAdel-2107/Ai_Weather-App/raw/main/assets/video.mp4)
+[🎥 Watch Demo](https://drive.google.com/file/d/1yohqjvDsiaVDYLwC0wLiJbeEYV9lZW0s/view)
